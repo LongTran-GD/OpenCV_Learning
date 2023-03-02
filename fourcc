@@ -1,0 +1,2 @@
+// int fourcc = VideoWriter::fourcc('H', '2', '6', '4'); // Lossy Video
+int fourcc = VideoWriter::fourcc('R', 'G', 'B', 'A'); // Lossless Video
